@@ -6,7 +6,7 @@ main()
     printf("enter number you want search");
     scanf("%d",&num);
     for(i=0;i<10; i++)
-    if(num==ar[i])
+    if(num==ar[i]) 
     {
         printf("%d is found at position %d",num,i);
         count++;
