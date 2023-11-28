@@ -1,5 +1,5 @@
 #include<stdio.h>
-main() 
+main()
 {
     int ar[10]={2,5,86,63,87,12,59,36,7,4};
     int i, num, count=0;
